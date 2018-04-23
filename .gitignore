@@ -1,4 +1,22 @@
+# OS related ignored files
+.DS_Store
+Thumbs.db
+
+
+# Editor related
+.idea
+*.iml
+
+
+# NPM ignore
+node_modules
+
+
+#secret stuff
+
+
+#others
+main.js
 public/main.js
 *.map
-node_modules
-main.js
+
